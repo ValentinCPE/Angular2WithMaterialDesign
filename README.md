@@ -4,6 +4,14 @@ Getting Material Design modules working with Angular 2 is a real pain. Specially
 
 I took the Angular 2 quick start project and combine it with Martial Design module to kick start projects.
 
+1. Clone
+
+2. npm install hammerjs --save
+
+3. typings install dt~hammerjs --save --global
+
+4. npm install
+
 Quick Start:
 https://angular.io/docs/ts/latest/quickstart.html
 
